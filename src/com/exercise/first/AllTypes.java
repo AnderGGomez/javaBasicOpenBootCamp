@@ -1,4 +1,4 @@
-package com.first.exercise;
+package com.exercise.first;
 
 
 
